@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "growcery-import-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "82234822-f179-42e0-bf4f-25b7032af9d6",
+			"database_name": "shoppizzy-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
